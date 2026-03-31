@@ -1,0 +1,5 @@
+{
+  "name": "Qmax",
+  "description": "A professional app framework with undo/redo, zoom, and project management features, styled with Qmax branding.",
+  "requestFramePermissions": []
+}
